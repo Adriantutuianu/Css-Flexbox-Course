@@ -202,5 +202,10 @@ input::-moz-focus-inner {
   display: flex;
   border: 10px solid goldenrod;
   min-height: 100vh;
-  flex-direction: row; /* Column, row-reverse, column-reverse  */
+  flex-wrap: wrap;
+}
+
+/* Flex wrap  */
+.box {
+  width: 33.33333%;
 }
