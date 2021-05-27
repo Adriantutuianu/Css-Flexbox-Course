@@ -219,5 +219,5 @@ input::-moz-focus-inner {
 
 .box9 {
   padding-bottom: 50px;
-  align-self: flex-end;
+  align-self: stretch;
 }
