@@ -202,6 +202,11 @@ input::-moz-focus-inner {
   display: flex;
 }
 
-.box {
+.box1 {
+  flex-basis: 400px;
+  flex-grow: 10;
+}
+.box2 {
+  flex-basis: 400px;
   flex-grow: 1;
 }
