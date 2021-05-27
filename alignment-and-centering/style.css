@@ -203,7 +203,7 @@ input::-moz-focus-inner {
   border: 10px solid mistyrose;
   height: 100vh;
   flex-wrap: wrap;
-  align-content: flex-end;
+  align-content: space-around;
 }
 
 .box {
