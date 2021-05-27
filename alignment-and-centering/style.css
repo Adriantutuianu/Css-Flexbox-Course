@@ -201,6 +201,6 @@ input::-moz-focus-inner {
 .container {
   display: flex;
   border: 10px solid mistyrose;
-  align-items: flex-start;
+  align-items: flex-end;
   height: 100vh;
 }
