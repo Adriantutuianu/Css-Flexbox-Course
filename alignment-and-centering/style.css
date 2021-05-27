@@ -201,6 +201,11 @@ input::-moz-focus-inner {
 .container {
   display: flex;
   border: 10px solid mistyrose;
-  align-items: baseline;
   height: 100vh;
+  flex-wrap: wrap;
+  align-content: space-between;
+}
+
+.box {
+  width: 33.3333%;
 }
