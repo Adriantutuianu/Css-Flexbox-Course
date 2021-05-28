@@ -204,10 +204,8 @@ input::-moz-focus-inner {
 
 .box1 {
   /* flex- grow-shrink-basis-all together */
-  flex:10 5 400px;s
-
+  flex: 10 5 400px;
 }
 .box2 {
-
   flex: 1 1 400;
 }
