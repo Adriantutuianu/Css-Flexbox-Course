@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Adriantutuianu/Css-Flexbox-Course/issues"
   },
-  "homepage": "https://github.com/Adriantutuianu/Css-Flexbox-Course#readme"
+  "homepage": "https://github.com/Adriantutuianu/Css-Flexbox-Course#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-autoprefixer": "^7.0.1",
+    "save-dev": "0.0.1-security"
+  }
 }
