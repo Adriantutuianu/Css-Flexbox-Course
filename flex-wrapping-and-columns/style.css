@@ -203,7 +203,7 @@ input::-moz-focus-inner {
   flex-wrap: wrap;
   flex-direction: column;
   border: 10px solid goldenrod;
-  min-height: 100vh;
+  height: 100vh;
 }
 
 .box {
@@ -213,4 +213,8 @@ input::-moz-focus-inner {
 
 .box3 {
   flex-grow: 5;
+}
+
+.box4 {
+  flex-basis: 100px;
 }
