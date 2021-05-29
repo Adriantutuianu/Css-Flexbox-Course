@@ -47,6 +47,13 @@ a:hover {
   display: flex;
 }
 
+.flex-nav li {
+  flex: 3;
+}
+
+.flex-nav .social {
+  flex: 1;
+}
 @media all and (max-width: 1000px) {
 }
 
