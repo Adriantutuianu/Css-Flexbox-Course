@@ -109,3 +109,8 @@ a.button {
 .app-wrap > * {
   flex: 1 1 autos;
 }
+/* content  */
+.content {
+  overflow-y: scroll;
+  webkit-overflow-scrolling: touch;
+}
