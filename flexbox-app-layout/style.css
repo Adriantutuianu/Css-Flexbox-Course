@@ -107,10 +107,17 @@ a.button {
 }
 
 .app-wrap > * {
-  flex: 1 1 autos;
+  flex: 1 1 auto;
 }
+/* Header  */
+.app-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 /* content  */
 .content {
   overflow-y: scroll;
-  webkit-overflow-scrolling: touch;
+  -webkit-overflow-scrolling: touch;
 }
